@@ -4,3 +4,5 @@ This application is built to take the input of a city in the search bar, and wil
 
 
 https://cjado.github.io/chal-6-weather-syrup/
+
+![2023-01-25](https://user-images.githubusercontent.com/117666978/214647048-6c4ddaaf-0f57-45b2-a422-f584af315c86.png)
