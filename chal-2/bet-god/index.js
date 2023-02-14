@@ -1,7 +1,7 @@
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '23eedc5010msh73229f3320afb98p120873jsna25635726417',
+		'X-RapidAPI-Key': '',
 		'X-RapidAPI-Host': 'api-nba-v1.p.rapidapi.com'
 	}
 };
@@ -40,7 +40,7 @@ function getStats() {
                         "method": "GET",
                         "headers": {
                             "x-rapidapi-host": "api-nba-v1.p.rapidapi.com",
-                            "x-rapidapi-key": "23eedc5010msh73229f3320afb98p120873jsna25635726417"
+                            "x-rapidapi-key": ""
                         }
                     })
                     .then(response => {
