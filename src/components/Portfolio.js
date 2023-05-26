@@ -17,7 +17,7 @@ function Portfolio() {
           <div className="card custom-card">
             <div className="card-body">
               <h5 className="card-title">Box 2</h5>
-              <p className="card-text">Description of box 2.</p>
+              <a href="https://sleepminded.herokuapp.com/" className="card-text">Sleep-Minded 2.</a>
             </div>
           </div>
         </div>
