@@ -1,3 +1,7 @@
+"homepage" : "https://{your_github_username}.github.io/{app-name}"
+
+#{cjado} - Your GitHub username
+# {react-port} - Name of your application
 {
   "name": "react-port",
   "version": "0.1.0",
